@@ -1,3 +1,6 @@
+
+[Use it](browser-tool)  
+
 # unfake.js
 
 **unfake.js** is a versatile JavaScript library designed to bridge the gap between AI-generated images and clean, usable assets. It offers two primary modes of operation: a powerful **Pixel Art Processor** and a sophisticated **Image Vectorizer**. The library is bundled with a feature-rich browser-based tool for easy, interactive use.
